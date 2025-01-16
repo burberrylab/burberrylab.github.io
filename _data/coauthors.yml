@@ -30,3 +30,18 @@
   - firstname: ["Elizabeth", "E."]
     url: https://orcid.org/0000-0002-0090-1568
 
+"lemr":
+  - firstname: ["Katelyn", "Katie", "K."]
+    url: https://orcid.org/0009-0008-5477-4657
+
+"ramaiah":
+  - firstname: ["Sara", "S."]
+    url: https://orcid.org/0009-0004-3537-152X
+
+"gomez-nguyen":
+  - firstname: ["Adrian", "A."]
+    url: https://orcid.org/0000-0002-7226-6428
+
+"burberry":
+  - firstname: ["Aaron", "A."]
+    url: https://orcid.org/0000-0003-1552-8695

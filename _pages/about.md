@@ -9,7 +9,7 @@ profile:
   image: WRB_exterior.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Wolstein Research Building 5313</p>
+    <p>Wolstein Research Building</p>
     <p>2103 Cornell Rd</p>
     <p>Cleveland, OH 44106</p>
 
