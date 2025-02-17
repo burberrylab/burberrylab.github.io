@@ -17,4 +17,14 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-The Burberry Lab in CWRU's Department of Pathology studies C9orf72-mediated ALS/FTD, employing mouse models, *ex vivo* tissue culture, and translational clinical research. See the [projects](/projects) tab for more information on our current work.
+The Burberry Lab in CWRU's Department of Pathology studies C9orf72-mediated ALS/FTD, employing mouse models, *ex vivo* tissue culture, and translational clinical research. See the [projects](/projects) tab for more information on our current work.  
+
+We are thankful to have ongoing and completed support of the labs from: 
+  - The National Institute on Aging 
+  - The National Institute of Diabetes and Digestive and Kidney issues
+  - The Association for Frontotemporal Degeneration
+  - Target ALS
+  - Live Like Lou
+  - Cleveland Alzheimer's Disease Research Center
+  - Cleveland Clinic Barrier-AD
+  - 10X Genomics
