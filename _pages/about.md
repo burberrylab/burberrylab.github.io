@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='case.edu/medicine/pathology/'>CWRU Department of Pathology</a>
+subtitle: <a href='https://case.edu/medicine/pathology/'>CWRU Department of Pathology</a>
 
 profile:
   align: right
@@ -19,12 +19,4 @@ social: true # includes social icons at the bottom of the page
 ---
 The Burberry Lab in CWRU's Department of Pathology studies C9orf72-mediated ALS/FTD, employing mouse models, *ex vivo* tissue culture, and translational clinical research. See the [projects](/projects) tab for more information on our current work.  
 
-We are thankful to have ongoing and completed support of the labs from: 
-  - The National Institute on Aging 
-  - The National Institute of Diabetes and Digestive and Kidney issues
-  - The Association for Frontotemporal Degeneration
-  - Target ALS
-  - Live Like Lou
-  - Cleveland Alzheimer's Disease Research Center
-  - Cleveland Clinic Barrier-AD
-  - 10X Genomics
+Inquisitive minds can contact Dr. Burberry regarding open positions.
