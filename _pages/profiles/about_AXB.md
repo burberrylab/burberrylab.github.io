@@ -1,5 +1,5 @@
-# Aaron Burberry  
+# Aaron Burberry
+
 ### Principal Investigator
 
 Aaron Burberry earned his doctoral degree from the University of Michigan working with Gabriel Nuñez to understand host-microbial interactions in Crohn’s disease and hematopoietic stem cell response to infection. For post-doctoral studies, he trained with Kevin Eggan at Harvard University where became interested in studying how a common inherited mutation causes neural degeneration in Amyotrophic lateral sclerosis (ALS) and Frontotemporal dementia (FTD). He and his colleagues discovered that this gene acts in the immune system including macrophages and T cells to restrict neural inflammation and autoimmunity in response to gut bacteria. Aaron received a K99/R00 Pathway to Independence award from the National Institute of Aging and joined the faculty at Case Western Reserve University in 2021 as Assistant Professor in the Department of Pathology where he continues to explore genetic and environmental contributions to neural inflammation and degeneration.
-

@@ -1,2 +1,3 @@
-# Quinn Anderson  
+# Quinn Anderson
+
 ### Research Associate
