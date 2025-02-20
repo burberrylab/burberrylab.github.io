@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-A study led by Aaron Burberry and other scientists form Harvard University was covered in *PressReleasePoint*, *New Atlas*, and *Alzforum* shortly after publication.
+A study led by Aaron Burberry and other scientists form Harvard University was covered in _PressReleasePoint_, _New Atlas_, and _Alzforum_ shortly after publication.
 
 ---
 

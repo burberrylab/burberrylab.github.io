@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Burberry lab published in [*Science Translational Medicine*](https://www.science.org/doi/10.1126/scitranslmed.adg7895).
+Burberry lab published in [_Science Translational Medicine_](https://www.science.org/doi/10.1126/scitranslmed.adg7895).

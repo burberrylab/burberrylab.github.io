@@ -1,6 +1,6 @@
 ---
 layout: page
-title: press coverage
+title: Press coverage
 permalink: /news/
 ---
 

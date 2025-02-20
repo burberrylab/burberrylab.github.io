@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://case.edu/medicine/pathology/'>CWRU Department of Pathology</a>
 
@@ -17,6 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-The Burberry Lab in CWRU's Department of Pathology studies C9orf72-mediated ALS/FTD, employing mouse models, *ex vivo* tissue culture, and translational clinical research. See the [projects](/projects) tab for more information on our current work.  
+
+The Burberry Lab in CWRU's Department of Pathology studies C9orf72-mediated ALS/FTD, employing mouse models, _ex vivo_ tissue culture, and translational clinical research. See the [projects](/projects) tab for more information on our current work.
 
 Inquisitive minds can contact Dr. Burberry regarding open positions.

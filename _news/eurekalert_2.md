@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-EurekAlert coverage of *Nature Neuroscience* paper: [Harvard research reveals potential therapeutic target for ALS ](https://www.eurekalert.org/news-releases/583758).
+EurekAlert coverage of _Nature Neuroscience_ paper: [Harvard research reveals potential therapeutic target for ALS ](https://www.eurekalert.org/news-releases/583758).
