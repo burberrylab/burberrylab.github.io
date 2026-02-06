@@ -26,6 +26,7 @@ profiles:
     image_circular: false
     more_info: >
       <p>katelyn.lemr [at] case.edu</p>
+      <p><a href="https://www.linkedin.com/in/katie-lemr-491926232/">LinkedIn</a></p>
   - align: left
     image: eaw_pic.jpg
     content: profiles/about_EAW.md
