@@ -14,12 +14,6 @@ profiles:
     more_info: >
       <p>aaron.burberry [at] case.edu</p>  
       <p><a href="https://case.edu/medicine/pathology/faculty/aaron-burberry">CWRU faculty page</a></p>
-  - align: left
-    image: btm_pic.jpg
-    content: profiles/about_BTM.md
-    image_circular: false
-    more_info: >
-      <p>blake.mccourt [at] case.edu</p>
   - align: right
     image: kxl_pic.jpg
     content: profiles/about_KXL.md
@@ -35,17 +29,16 @@ profiles:
       <p>elizabeth-woidke [at] case.edu</p>  
       <p><a href="https://www.linkedin.com/in/elizabeth-woidke-a9442488/">LinkedIn</a></p>
   - align: right
+    image: qta_pic.jpg
     content: profiles/about_QTA.md
     image_circular: false
     more_info: >
       <p>quinn.t.anderson [at] case.edu</p>  
       <p><a href="https://www.linkedin.com/in/quinn-anderson-626320221/">LinkedIn</a></p>
-  - align: right
-    image: sxc_pic.jpg
-    content: profiles/about_SXC.md
+  - align: left
+    image: jxp_pic.jpg
+    content: profiles/about_JXP.md
     image_circular: false
-    more_info: >
-      <p>shinjon.chakrabarti [at] case.edu</p>
   - align: left
     image: cyl_pic.jpg
     content: profiles/about_CYL.md
@@ -60,7 +53,25 @@ profiles:
     more_info: >
       <p>alyssa.w.wang [at] case.edu</p>
   - align: right
+    image: nsp_pic.jpg
+    content: profiles/about_NSP.md
+    image_circular: false
+    more_info: >
+      <p>nsp99 [at] case.edu</p>
+  - align: right
     content: profiles/about_former.md
+  - align: left
+    image: btm_pic.jpg
+    content: profiles/about_BTM.md
+    image_circular: false
+    more_info: >
+      <p>blake.mccourt [at] case.edu</p>
+  - align: right
+    image: sxc_pic.jpg
+    content: profiles/about_SXC.md
+    image_circular: false
+    more_info: >
+      <p>shinjon.chakrabarti [at] case.edu</p>
   - align: left
     image: asg_pic.jpg
     content: profiles/about_ASG.md
