@@ -14,13 +14,19 @@ profiles:
     more_info: >
       <p>aaron.burberry [at] case.edu</p>  
       <p><a href="https://case.edu/medicine/pathology/faculty/aaron-burberry">CWRU faculty page</a></p>
-  - align: right
+  - align: left
     image: kxl_pic.jpg
     content: profiles/about_KXL.md
     image_circular: false
     more_info: >
       <p>katelyn.lemr [at] case.edu</p>
       <p><a href="https://www.linkedin.com/in/katie-lemr-491926232/">LinkedIn</a></p>
+  - align: right
+    image: dak_pic.jpg
+    content: profiles/about_DAK.md
+    image_circular: false
+    more_info: >
+      <p>dak216 [at] case.edu</p> 
   - align: left
     image: eaw_pic.jpg
     content: profiles/about_EAW.md
@@ -39,14 +45,14 @@ profiles:
     image: jxp_pic.jpg
     content: profiles/about_JXP.md
     image_circular: false
-  - align: left
+  - align: right
     image: cyl_pic.jpg
     content: profiles/about_CYL.md
     image_circular: false
     more_info: >
       <p>christy.liu [at] case.edu</p>
       <p><a href="https://www.linkedin.com/in/christy-y-liu/">LinkedIn</a></p>
-  - align: right
+  - align: left
     image: aww_pic.jpg
     content: profiles/about_AWW.md
     image_circular: false
@@ -83,13 +89,13 @@ profiles:
     image_circular: false
     more_info: >
       <p>sara.ramaiah [at] case.edu</p>
-  - align: right
+  - align: left
     image: zns_pic.jpg
     content: profiles/about_ZNS.md
     image_circular: false
     more_info: >
       <p><a href="https://www.linkedin.com/in/zach-schmalz-b484b7226/">LinkedIn</a></p>
-  - align: left
+  - align: right
     content: profiles/about_JAW.md
     image_circular: false
 ---
